@@ -1,0 +1,68 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    margin-left: 20px;
+    padding: 5px 10px;
+    color: white;
+    background: var(--main-bg-color);
+    border: 2px solid white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.ctn {
+    margin-left: 20px;
+    padding: 5px 12px;
+    color: white;
+    background: var(--main-bg-color);
+    border-radius: 4px;
+    border: 2px solid white;
+
+}
+
+.btn2 button {
+    margin-left: 40px;
+    padding: 6px 12px;
+    color: white;
+    background: var(--main-bg-color);
+    border-radius: 4px;
+    border: 2px solid white;
+}
+
+.btn2 button {
+    cursor: pointer;
+}
+
+.dark {
+    background-color: #222;
+    color: #000000;
+}
+
+.dropdown {
+    margin-left: 20px;
+    padding: 2px 12px;
+}
+
+.my-1 {
+    margin: 16px 15px;
+}
+
+.my-1:hover {
+    text-decoration: solid;
+}
+
+.my-2 {
+    margin: 16px 15px;
+}
+
+my-2 :hover {
+    text-decoration: solid;
+}
+
+.text-center {
+    text-align: center;
+}
